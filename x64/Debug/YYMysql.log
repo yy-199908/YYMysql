@@ -1,0 +1,15 @@
+﻿D:\Visual Studio\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  transcode.cpp
+  YYDATA.cpp
+F:\selflearn\MYSQL\c++访问mysql\YYMysql\YYMysql\YYDATA.cpp(11,22): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\selflearn\MYSQL\c++访问mysql\YYMysql\YYMysql\YYDATA.cpp(19,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+F:\selflearn\MYSQL\c++访问mysql\YYMysql\YYMysql\YYDATA.cpp(41,18): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+F:\selflearn\MYSQL\c++访问mysql\YYMysql\YYMysql\YYDATA.cpp(53,23): warning C4244: “+=”: 从“std::streamsize”转换到“int”，可能丢失数据
+  YYMysql.cpp
+F:\selflearn\MYSQL\c++访问mysql\YYMysql\YYMysql\YYMysql.cpp(281,53): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+F:\selflearn\MYSQL\c++访问mysql\YYMysql\YYMysql\YYMysql.cpp(335,30): warning C4244: “return”: 从“uint64_t”转换到“int”，可能丢失数据
+F:\selflearn\MYSQL\c++访问mysql\YYMysql\YYMysql\YYMysql.cpp(369,53): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+F:\selflearn\MYSQL\c++访问mysql\YYMysql\YYMysql\YYMysql.cpp(390,29): warning C4244: “return”: 从“uint64_t”转换到“int”，可能丢失数据
+  正在生成代码...
+    正在创建库 ..\..\lib\YYMysql.lib 和对象 ..\..\lib\YYMysql.exp
+  YYMysql.vcxproj -> F:\selflearn\MYSQL\c++访问mysql\bin\YYMysql.dll
